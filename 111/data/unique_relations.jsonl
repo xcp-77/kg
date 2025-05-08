@@ -1,0 +1,2162 @@
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Detected in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Inhibited by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Used in nanoencapsulation with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Includes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Enhanced production of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Derived from", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Derived from", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used to produce", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Derived from", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Produced in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Produced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Produced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Reduces", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Contains", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reacted with", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Produces", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Produces", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Produced by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Rich in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Derived from", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Interacts with", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Produced by", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Produces", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Accumulated during", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Improves", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Used in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Acts on", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Inhibits", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Responsible for", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Accumulated in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Produced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Activated by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Contains", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Accumulated during", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Upregulates", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Distinguished by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Is a colon-derived catabolite of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Increases", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Improved property", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Used in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Produced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Crosstalk with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Exert", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulate", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used as", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Participates in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Assists cyclization of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Interacts with", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Increases", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Reduces", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Responsible for", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Used for", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Responsible for", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Added to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Core aglycone of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Induces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Used for", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affects", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Detected in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Detected in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Activated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Inhibits", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Includes", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Reduces", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exhibits", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Promotes", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Activated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Included in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Blunts the effect of", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Derived from", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Belongs to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Reduces", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Interacts with", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Inhibits", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Inhibited by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increased", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Influences", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Modified by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increases", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Interacts with", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Promoted by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Promoted by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Affects", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used for production of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Acts on", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Includes", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Distinguished by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Affects", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Demethylated to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Composed of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Lowered Expressions of", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Linked to", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Interacts with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Acts as", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Derived from", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Activated by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Inhibited by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Demethylate", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used in", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Permeated to", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Studied for", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Induces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exhibited AhR activation", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Interacts with", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Isomer of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Improved property", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exhibits", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Participates in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Involved in", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Induces", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Interacts with", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Used for", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Regulates", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Promotes", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Higher in", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Lower in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Lowered Expressions of", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Participates in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Showed", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Improved property", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Quenched by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Affects", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Inhibits expression of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Increases", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Derived from", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Increases", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Possess", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Acts as", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Located in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Detected in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Encoded by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Expressed in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Part of", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Induces", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Participates in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Regulated by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Inhibited by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "6beta-hydroxylation inhibited by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Exhibits", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Increased with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Stable in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Accumulated during", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Showed", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Occurs during", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Inhibited by", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Causes", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Modified by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Components screened for effect on", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Suggested to inhibit cytokine production by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Included in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Act as", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Originates from", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Derived from", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Activated by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Lowered Expressions of", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Exhibits", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Act as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Act as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Acts as", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Produced by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Reduces", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Supports growth of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Increases transcripts of", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Acts as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Suppressed by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Laid foundation by", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Produced by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Used in", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Regulates", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Accumulated during", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Increased", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Raised", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Raised", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Increased", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Increased", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Removed", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Shapes", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Regulates", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Found in", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Improves", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Accumulated during", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Exhibits", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Contributes to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Enriched in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Highest content in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Promoted by", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Ubiquitinates", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Reduces", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Localized to", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Occurs in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Acts on", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Triggered by", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Originates from", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Possess", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Showed odor modification in", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Leaching loss reduced by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Improves", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Stored at", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Determine", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Analyzed in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Analyzed in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Does not affect enantiomeric composition of", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Regulates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Produced by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Released during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Adsorbs", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Promoted by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Inhibited by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Increases", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Inhibited by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Identified using", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Promotes", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Causes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increases", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Contains", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Acts as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Serves as", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Encoded by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Catalyzed by", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Linked to", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Encoded by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Affects", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Regulate", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Promotes", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Enriched in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Causes", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Occurs during", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Inhibits", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Higher in", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Higher in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Affected by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Component of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits expression of", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used as", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Differed between", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Activated by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Inhibits allyl isothiocyanate-mediated response", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Inhibit capsaicin-mediated response", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Absent due to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Distributed across", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Used for", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Occurs during", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increased with", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Deteriorated after", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Induces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Regulates", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulate", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Occurs during", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Influenced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Lower in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Produced in", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Contains", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Associated with", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Enriched in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Promotes", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Affect", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Grown in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits expression of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Exclusively up-regulated by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Lower in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Higher in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Serves as", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Activated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Supplemented in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Upregulates", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Found in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Serves as", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Increased", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Predominant in", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Clustered by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Activated by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Promotes", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Added to", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Causes", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Promoted by", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Differed between", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Lasted for", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Not explicitly mentioned", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Cyclized to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Modified by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Upregulates", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Responsible for", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Identified using", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Occurs during", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Interacts with", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Produced by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Activated by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Occurs during", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Influenced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Encoded by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Used for", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Used for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Responsible for", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Causes", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Occurs in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Increases", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Enhanced by", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Consistent with", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Contributes to", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Causes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Encodes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Detected in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Improved property", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used for", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Detected in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Produced in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Supplemented in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Permeated to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Catalyzed by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Enriched in", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Higher peroxide value in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Promoted by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Studied for", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Activated by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Responsible for", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Reduced", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Improved property", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Localized in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Localized in", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Differed between", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Modified by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Produced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Functions in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": " Incorporated into", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Originates from", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Promoted by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Localized in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Higher in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Added to", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Induces", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Suppressed by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Promotes", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Reduces", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increased", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Released during", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Reduces activity of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Reduces activity of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Reduces activity of", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Channeling to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Is a stereoisomer of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Improved property", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affect", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Affect", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Derived from", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "More efficient metabolic intermediate for", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Linked to", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Reduces", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Reduces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Promoted by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Produced by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Influenced by", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Triggered by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Allows quantification of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inverse tripleship with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "QTL detected on", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Inhibited by", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Not expressed in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Promotes", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Expressed in", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Prevalent monosaccharide in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Modified by", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": " Incorporated into", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Predominant in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Detoxified by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Produced by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Analyzed in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Produces", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Contributes to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inhibited by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Exhibits", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Includes", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used as", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Accelerated by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Accelerated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Derived from", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reacted with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Reacted with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Expressed in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Located in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Causes", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Studied for", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Glycosylated forms accumulate in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Responsible for", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Possess", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Coinherited with", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Determine", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Donates nitrogen to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Exported from", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Influenced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Increased", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Integral part of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Catalyzed by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Derivatized to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Fractional absorption is", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Modified by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Triggered by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Localized in", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Found in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Rate limiting compared with", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Liberates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Shows recovery after exposure to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Show ethylene-dependent regulation in response to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Decarboxylated into", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Lower estrogenic activity than", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Produced in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Cleaved at", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Used for", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Reduced", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Inhibits", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Modified by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Glycoconjugation in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Affected by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Part of", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Deters", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Produced in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Pool size increased by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Affects", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Positively Correlated with", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Increased with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Contains", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Optimal period for", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Optimal period for", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Improved property", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increased with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Yielded wines with elevated levels of", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Serves as", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Serves as", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Served as", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Candidate biomarker for", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Higher in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Increases", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Accumulated during", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Causes", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Originated from", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Masks", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Affects", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Serves as", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Includes", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Produced darker", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Exhibits", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Inhibited by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Maintains", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Higher in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Lower in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Promoted by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Found in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Added to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Enhanced production of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Showed positive cortriples with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Improves", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Largest contributing compound with OAV more than", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Enriched in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Causes", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Responsible for", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Representing", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Extracted using", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Crosses", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Improves", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Increased", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Inhibited by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Added to", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Reduced", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Occurs during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Inhibits expression of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Adsorbs", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Associated with", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Exhibited highest odor activity value in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Showed similar aroma profiles with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Added to", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Found in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Belongs to", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Found in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Show VOC profiles similar to", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Highest content in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Showed", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Influences", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Differed between", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Subcategory of", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Produced spirits with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Produced spirits with", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Allele dosage impacts production of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Increased", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Transferred to", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Act as", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Improved property", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Differed between", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Includes", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Rich in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Exclusively up-regulated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Content rose until", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Composed of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Predominantly esterified with oleic, palmitic, lauric, and stearic acid in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Added to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Higher in", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Part of", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Influenced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Used for", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Included in", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Detected in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Induces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Adsorbed by", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Preferred by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Regulates", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Suppressed by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Protonated and not easily degraded into", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Best smell profile in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Ensure homeostasis of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Helps understand", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Decreased complexity of", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Includes", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Affected by", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Differed between", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Similar to untreated wine", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Dominant after", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Preferred by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Potential flavor contributor upon", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Used for", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Used for", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Occurs in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Affects", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Part of", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Highest preference to lay eggs when co-inoculated with", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Increased with", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Consistent with", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Distinguished by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Possess", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Catalyzed by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Increases", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Influenced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Predominant terpenol in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Reported in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Determined enantiomeric distribution of", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Modified by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Possess", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Produced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Rich in", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Crucial for", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Responsible for", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Exhibits", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Involved in", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Induces", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Maintains", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Inhibits expression of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Released during", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Influences", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Affect", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Extracted using", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Identified using", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Linked to", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Reduces", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Predominant in", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Catalyzed by", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Positively Correlated with", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Positively Correlated with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Extracted using", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Lower in", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Appears after", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Derived from", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Principal volatile compound at", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": " Incorporated into", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Originated from", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Showed lowest potential for", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Includes", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Consistent with", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Located in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Exhibited higher antioxidant activity against", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Part of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Breakdown accelerated by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Studied for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Aroma release most suppressed by", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Modified by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Enantiomeric separation done by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Adsorbed by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Predominant in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Librated", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Induces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Linked to", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Triggered by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Interacts with", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Exclusively up-regulated by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Exclusively up-regulated by", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Activated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Inhibited by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Crucial for", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Regulated by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Improved property", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Higher in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Lower in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Determine", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Responsible for", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Reduced", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Influenced by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Upregulates", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Accumulated during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Occurs during", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Regulates", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Maximum content in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Detected in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Exclusively up-regulated by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Added to", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Entails shifts in", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Duration affects", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Part of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Included in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Increased", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Detected in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Part of", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Showed", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Inhibits radical production via", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Used to prepare", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Permeated through", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Upregulates", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Not applicable", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Showed", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Showed", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Increases", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Catalyzed by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Studied for", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Belongs to", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Improved property", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Screened as", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Interacts with", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Promoted by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "More easily dehydrogenated than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Requires higher energy barrier for", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Is rate determining step of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Mean degree of polymerization increased by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Used with", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Reduced", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Occurs during", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Increase of defects-relating", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Improved property", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Improved property", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Improved property", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Possess", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Activated by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Stored at", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Involved in", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Enhances permeability of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Enhances permeability of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Contributes to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Increases", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Degree of polymerization of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Enriched in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Enriched in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Stable in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Extracted using", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Reduces", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Crosses", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Higher in", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Regulated by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Localized in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Studied for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Accumulated during", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Decreased post-germination in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Determinant for", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Responsible for", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Cosubstrate in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Eliminates", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Anti-fibrilization", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Anti-oligomerization", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exclusively up-regulated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Localized in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Increases", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Derived from", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Increases", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Reduced", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Produced specialty coffee with highest SCA score in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Coated on", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used to produce", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Showed increased crystalline size from", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Had lower band gap at", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Active in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Exhibited potent antioxidant activity against", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Effective against", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Endows", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Occurs in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Occurs in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Adsorbed by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Tastes", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Lower IC50 values in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Capped with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Imaged by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Used for", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": " Shields", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Possess", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "More hydrophilic than", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Used for", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Inhibits", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Liberates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Has particle size", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Has total phenolic content", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Produced in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced to counteract", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Forms cocrystals with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Increased", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "More swellable than", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Part of", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Exhibited adsorption capacity of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Adsorbed through", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Thermodynamic analysis showed", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Monosaccharide constituent of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Raised", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Detoxified by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Bearing", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Act as", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Induces apoptosis through", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Extracted using", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Composed of", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Influenced by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Reduced", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Serves as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Catalyzed by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used for magnetization of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Used for", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Belongs to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Acts as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Blocks", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Common Upstream Gene for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Increased", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Unfolding caused by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Optimal at", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Co-crystallized with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Effective against", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Contributes to", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Studied for", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Accumulated during", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Expressed in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Showed", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Used in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Rich in", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Inhibited by", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Disrupted QS-sensing in", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Increases", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Bound through", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Maintains", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Maintains", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Derived from", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Arrests in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Contributes to", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Affect", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Increased", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Used for extraction of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used to prepare", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Distinguished by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Possess", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Accumulated in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Has same glycosidic bonds as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Is a trimer of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Active in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Served as functional monomer in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Contributes to", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Cross-talk with", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Promotes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Showed significant ROS scavenging activity", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Surface morphology", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Reinforced with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Rich in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Potential allergens in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Located in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Changes color in presence of", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Used with", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Found in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Differed between", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Accelerated by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Detected in", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Produced by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Used to prepare", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Detected in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Anthracnose improved by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Influences", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Upregulates", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Served as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Coated on", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Maintains", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Liberates", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Possess", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Released curcumin more quickly in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Enriched in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Identified using", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "High radical capture capacity", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exhibited better fermentability than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Exhibited better prebiotic potential than", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Promoted by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Promoted by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Increase", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Effective against", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Used to prepare", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Lowered Expressions of", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Cooperative association with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Showed the highest inhibition of mycelia growth of", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Increased with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Acts as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Reduced clonogenic capacity of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": " Incorporated into", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Fits isotherm model", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Doped with", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Affected by", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Affected by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Included in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Accumulated in", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Increased", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Reduced", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Internalized via", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Lowered Expressions of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Transferred to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Acts on", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Affected by", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Contributes to", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Responsible for", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Modified by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Increases", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Inversely proportional to", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Lowered Expressions of", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Increased", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Lowest content in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Catalyzed by", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Triggered by", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Occurs in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Lower in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Has lower relative standard deviation for", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Encoded by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Active in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Identified using", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Acts as", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Includes", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Inhibited by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "object_nameed against", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Stable in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "object_nameed against", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Used for", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Used in", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Includes", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Occurs in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Occurs in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Inhibits", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Positively Correlated with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Positively Correlated with", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Participates in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Active in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Exported by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Active against", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Reduction in naringin content", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Predominant in", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Activated by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Reduced IC50 value in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Composed of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Stable in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Component of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Linked to", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Exhibits", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Lower in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Acts on", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Acylating", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Contributes to", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Regulated by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Acts as", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Shapes", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Used in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Localized in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Enriched in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Nanoemulsified with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Stable in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Activity enhanced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Phytotoxicity reduced after treatment with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Induces", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Localized in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Derived from", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Concentration higher in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Acts on", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used to produce", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Rich in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Belongs to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": " Incorporated into", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Found in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Is a monomer of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Masked signals of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Reduces", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Co-emulsified by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Linked to", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Drives", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Enters cavity of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Equilibrium with", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Shows higher biosorption efficiency than", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Includes", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Extracted using", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Inverse tripleship with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Used for", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Accumulated in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Capped with", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Part of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Belongs to", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Activated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Displaces", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Deglycosylated to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Triggered by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Dynamic purification conditions include", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Reconstituted by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Involved genes affected by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Increase", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Regulates", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Reduced plasma levels of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Lower in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Studied for", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Component of", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Functions in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Activated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Expressed in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Functions in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Erode", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Form V-type inclusion complex with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Enhanced production of", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Predominantly expressed in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Lowered Expressions of", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Accumulated during", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Inversely proportional to", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Encoded by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Used for", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Optimized concentration for antibacterial activity", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Serves as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Promoted phagocytosis and release of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Had higher viscosity with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Belongs to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Reported in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Reduced", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Impairment leads to desynchronization of", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits expression of", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Leached from", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Crucial for", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used for production of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Scavenges", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Extracted using", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Upregulates", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Reduces activity of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used for production of", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Produced in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Increased with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Promoted hydrolysis of RFOs by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Increased transparency of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Extracted using", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Modified by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Exhibits", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Depolymerized to", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Inspired nano-architecture", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Influences", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Stored at", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Exhibits higher shear thinning behavior than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Has higher consistency index than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Part of network with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Has higher dynamic moduli than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Has higher emulsification performance than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Skewed plasticity of", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Part of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Interacts with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Entangled in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Adsorbs", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Part of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Encoded by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Exert", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Below bitter taste threshold", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Weakly associable with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Affects", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Hydroxylated forms", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Included in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Reduced", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Produced in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Quenched by", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "High iron reducing capacity", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "IC50 value", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Corresponds to", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Expressed in", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Coated on", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Reduced", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Insoluble in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Oxidize", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Acts on", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Component of", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Component of", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Lower in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Dispersibility index increased in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Active against", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Slower elongation rate in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Used for extraction of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Upregulates", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Stable in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Sweeter than", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Affected by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Quenched by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Used to prepare", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Main methylxanthine in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Inhibits expression of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Improves", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Affects", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Grown in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Main hemicellulose in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Active at pH", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Surface investigated for colloid retention", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Promotes", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Encoded by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Located in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Higher abundance in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Drying accelerated by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Contained bands typical for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Esterification degree dropped during", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Structural change in bran fraction at pressures above", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Sulfated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Released during", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Increased", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Influenced by", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Affect", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Promotes", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Accelerated by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Located in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Representing", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Produced in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Participates in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Transferred to", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Analysed for OPPs", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Produces", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Found in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Reduces", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Inhibited by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Main hydroxycinnamic acid conjugate in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Increase", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Rich in", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Suggested to be racemic by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Surface hydrophobicity decreases with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Quenched by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Pro-proliferative effect on", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Responsible for", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Antifungal activity against", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Candidate gene for", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Supplemented in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Prompts", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Produced by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Stability assessed by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Analyzed in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Derived from", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Lower in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Had Mw and RMS radius of 8.4 \u00d7 10^5 g/mol and 92 nm with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Had Mw and RMS radius of 6.7 \u00d7 10^5 g/mol and 52 nm with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Had lowest viscosity with", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Used as", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Induces", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Component of", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Effective against", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Originates from", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Regulates", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Served as", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Added to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Ionized by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Quenched by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Act as", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Reduces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Differed between", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Preferred by", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Assessed using", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Inhibits expression of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Decreases in enantiomeric purity during", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Surface functional groups analyzed by", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Forestall", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Lowered Expressions of", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Influences", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Effective against", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Pyrolyzed at", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Produced by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Used as", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Major lipid class in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Shows antifungal activity against", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Starch presents", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Intertripleship with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Higher in", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Increases", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "In tune with", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Enhanced shelf life of", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Produced de novo on day 6 after infection and may function as", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Top volatile in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Catalyzed by", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Studied for", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Composed of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Enhanced by", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Used for extraction of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Acts as", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Contributes to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Used for", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Differed between", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Causes LD50 in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Share fold with", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Results in higher values than", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Added to", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Grown in", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used to prepare", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Bleaches", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Exhibits", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Similar radical scavenging activity to", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "subject_name of ATP for", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Used by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Highest content in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Lowest content in", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Average size range", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Evolution measured as", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Lower in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Identified using", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Induces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Has foaming capacity", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Not expressed in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Predominant in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Optimal at", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Exhibit electrostatic attraction with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Agglutinates", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Engages in symbiosis with", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Conditioned by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Is an Fe(III) complex of", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Used with", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Produced by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Differed between", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Activated by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Quenches fluorescence of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Functional in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Partially complements", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Found in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Shows synergism in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Higher in", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Defines epitope on", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Key volatile for", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Volatilization rate altered by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Crucial for", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Located in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Bears", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Enriched in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Accelerated by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Located in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Differed between", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Has anti-metastatic effects on", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Regulates", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Originated from", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Responsible for", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Intake interacts with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Expressed in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Delays necrotic spot formation in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Active in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Derived energy and ammonia from", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Modulates sucrose and soluble sugar contents by inhibiting", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Preferred by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Upregulates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Exhibits", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Produces", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Improves", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Increase", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Best liquefaction with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Crucial for", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Overexpression promotes", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Activity increased rapidly and peaked at 90 d after flowering", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Expression peaked at 50 d after flowering", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Activity enhanced by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Accelerated by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Accelerated by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Classified into", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Maintains", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Activated by", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Affects", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Showed", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Lowered Expressions of", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Enhanced flux through", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Produced by", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Localized to", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Stabilizes through palmitoylation", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Higher in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Modified by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Possess", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Improves", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Regulated by", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Knock-out can improve", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Maximal expression at", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Enhanced by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Reduced", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Starvation causes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "No effect on survivorship when combined with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Caused less total sugar and glycogen levels compared to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "May cause abnormally high osmotic pressure in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Modified by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Accumulated during", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Influenced by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Regulates", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Resulted in viscosity of", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Reduced", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Encoded by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Homologous to", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Inhibits", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Limiting substrate for", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Serves as", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Adapted to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Used in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Component of", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Agglutinates", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Counters effect of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Functions in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Disrupts export of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Deprivation stimulates", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Detected in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Possess", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Reduces", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Partitioning affected by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Reached full-slip earlier than", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Influences", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Modified by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Catabolized to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Complements", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Differed between", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Decolors", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Distinguished by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Inhibited by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Abortion leads to decrease in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Promotes", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Produced in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Functional in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Retards", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Localized to", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Active against", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Used by", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Added to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Allowed cellular sucrose to be kept at a constant level together with", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Preferred nucleotide donor", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Channels carbon from", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Maintains", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Triggered by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Subcategory of", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Acts as", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Increased", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Enriched in", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Used with", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Used to produce", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Partitioned one-third to", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Induces", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Acetylates", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Eliminates", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Influences", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Activity enhanced by", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increased fractional energy consumption during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Thickens", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Participates in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Differed between", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Occurs in", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Differed between", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Amplified during", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Reduced", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Inhibits expression of", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Interacts with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Exclusively up-regulated by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Reaches maximum at", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Linked to", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Higher in", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Acts as crosstalk node between", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Responsible for", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Accumulated in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Responsible for", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Endow with", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Affect", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Influenced by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Mediates crosstalk with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Surge in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Surge in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Distinguished by", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Regulated by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Responsible for", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Inhibited by", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Used for", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Used as", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Produced in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Part of", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Composed of", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Distinguished by", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Show strongest ABTS radical-scavenging activity among", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Mediated positive cortriples with", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Supports growth of", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Analyzed in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Active in", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Mirrors", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Showed", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Regulates", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Positively Correlated with", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Preferred by", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Acts on", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Adjusted with", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Classified into", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Higher abundance in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Differed between", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Hampers release of", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Tendency to lower lipid concentrations with adherence to \u2265 2 dietary object_names", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Intake object_name \u2264 20th age-specific percentile", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Assessed using", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Triggered by", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Serves as", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Component of", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Used to produce", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Distinguished by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Stages separated by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Exclusively up-regulated by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Replicates in response to", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Upregulates", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Express genes related to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Express genes related to", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Maintains", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Co-extracts and enriches", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Co-extracts and enriches", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Expressed in", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Partially correlated with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Key canonical variable with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Lower among participants not meeting recommendations for", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Modified by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used for", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Triggered by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Higher in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Active against", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Increased with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Composed of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Postharvest biosynthesis affected by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Modified by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Proposed as biomarker for", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Proposed as biomarker for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Improved cluster uniformity under", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Plastic in response to", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Produced in", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Responsible for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Lower in", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Influenced by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Regulates", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Selected over", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Reprogrammed towards", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Included in", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Epigenetic regulation during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Concordant with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Activity enhanced by", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Determine", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Exception in links between", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Similar enzyme expression levels in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Growth limitation and fruit set abortion due to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Channeling carbon toward", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Have little connectivity with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Active in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Exclusively up-regulated by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Immobilized by", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Channeling to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Optimal harvest window", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Originated from", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Inhibited by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Higher in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Promotes ectopic expression of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Forms feedback loop with", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Reduced", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Coated on", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Assessed using", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Non-embryotoxic", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Antivirulence effect", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Component of", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Distinguished by", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Interacts with", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Simulates", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Sporicidal against", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Evaporated during", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Shapes", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Possess", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Localized to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Potential antiviral agent against", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Effective against", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Shared proximity with", "object_type": "Flavor"}
+{"subject_type": "Metabolism", "relation_type": "Exclusively up-regulated by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Xylem discoloration caused by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Assessed using", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Supplemented in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Showed increase in tensile strength after addition of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Enhanced flexibility after addition of", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Accelerated by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Acts on", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Promotes", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Recycles", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Induces more fluid secretion than", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Induces more fluid secretion than", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Showed increase in intensity of bands at", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Revealed Tg", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increase", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Key amino acids for recognizing", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Increase", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Differed between", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Increased with", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Served as", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Used as", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Too much in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Involved in", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Occurs during", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Detected in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Produced in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Differed between", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Affects", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Increase", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Higher Content in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Acts as Bioactive Equilibrist for", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Derived from", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Reduced", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Measures", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Has half-life time of", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Includes", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Better inhibited Listeria monocytogenes by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Acted mainly against Staphylococcus aureus and Acinetobacter baumannii by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Inhibited Pseudomonas aeruginosa particularly by", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Maintains", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Included in", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Predominant respiratory quinone of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Contained in polar lipids of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Coated on", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Enriched in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Used as", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Supplemented in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Improved strength and viscoelasticity of", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Storage period distinguished using", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Runoff loss reduced by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Found in", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "Regulated by", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Increased with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Screened as", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Regulated by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "MIC value", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "MBC value", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Free radical scavenging potential confirmed using", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Produces more hesperidin metabolites than", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Compartmentalizes", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Showed greater microbial diversity compared to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Higher C=O peak absorption in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Improved property", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Not applicable", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Knockdown results in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Interactive influence with", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Eliminates", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Produces", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Maintains", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Localized to", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Grouped samples based on", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Effective against", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": " Incorporated into", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Sorbs to", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Renovates", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Penetrate", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Wreck", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Part of", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Reduced", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Influences", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Subcategory of", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Causes multiple-meristem phenotype in", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Solidified by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Supplemented in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Amplified and sequenced from", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Core node in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Methylated at", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Improves", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Allelic variation influences", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Masks", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Linked to", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Repressed under", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Paralog of", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Inhibited by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Buffers", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Orchestrates", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Crucial for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Hastens", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Provided energy substrate for", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Transport promoted by", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Similar \u03b2-glucosidase production to", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Involved in", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Acts as", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Crosstalk with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Affect", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Forms regulatory network with", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Enriched in", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Regulate", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Promotes", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Accumulated during", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Exported from", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Component of", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Accumulated during", "object_type": "Fruit"}
+{"subject_type": "Metabolism", "relation_type": "Responsible for", "object_type": "Flavor"}
+{"subject_type": "Compound", "relation_type": "Application with gibberellins improves", "object_type": "Reaction"}
+{"subject_type": "Enzyme", "relation_type": "Adapted to", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Affected by", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Occurs during", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Sweeten with", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Consumed more by", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Lowered gene expression of inflammatory cytokines such as", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Not determinant for", "object_type": "Compound"}
+{"subject_type": "Flavor", "relation_type": "Regulated by", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Acts as", "object_type": "Metabolism"}
+{"subject_type": "Compound", "relation_type": "Encoded by", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Maintains", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Weak or nil effect on", "object_type": "Reaction"}
+{"subject_type": "Flavor", "relation_type": "No difference in hypocotyl growth between", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Malabsorbed as", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Increased", "object_type": "Enzyme"}
+{"subject_type": "Reaction", "relation_type": "Maintains", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Has PDO designation", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Produced in", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Enhanced by", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Produces", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Exhibited high recovery rates with", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Comparable accuracy to", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Differed between", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Differed between", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Interacts with", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "NMR data reported for the first time", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Fragmentation results in", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Measures", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Regulated by", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Higher in", "object_type": "Reaction"}
+{"subject_type": "Metabolism", "relation_type": "Increased with", "object_type": "Fruit"}
+{"subject_type": "Reaction", "relation_type": "Possess", "object_type": "Fruit"}
+{"subject_type": "Flavor", "relation_type": "Preferred by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Component of", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "High collinearity with", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Flavor notes in", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Lower in", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Leached from", "object_type": "Compound"}
+{"subject_type": "Enzyme", "relation_type": "Adapted to", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Affect", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Reduced whey and fat globule release in", "object_type": "Metabolism"}
+{"subject_type": "Reaction", "relation_type": "Accelerated by", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Dominant after", "object_type": "Enzyme"}
+{"subject_type": "Flavor", "relation_type": "Added to", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Increase", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Regulated by", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Maintains", "object_type": "Metabolism"}
+{"subject_type": "Flavor", "relation_type": "Assessed using", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Increases", "object_type": "Flavor"}
+{"subject_type": "Enzyme", "relation_type": "Measures", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Supports growth of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Has lower olfactory threshold than", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Shelf life extended by", "object_type": "Reaction"}
+{"subject_type": "Fruit", "relation_type": "Used to produce", "object_type": "Metabolism"}
+{"subject_type": "Fruit", "relation_type": "Exhibits", "object_type": "Compound"}
+{"subject_type": "Fruit", "relation_type": "Affect", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Influences", "object_type": "Reaction"}
+{"subject_type": "Compound", "relation_type": "Extended the lag phase growth of", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Proportion of nosespace to headspace higher in", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Preferred by", "object_type": "Flavor"}
+{"subject_type": "Reaction", "relation_type": "Inhibited by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Formed new intramolecular copigmentation compounds with", "object_type": "Compound"}
+{"subject_type": "Metabolism", "relation_type": "Reconstructed", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Subcategory of", "object_type": "Reaction"}
+{"subject_type": "Reaction", "relation_type": "Localized in", "object_type": "Fruit"}
+{"subject_type": "Enzyme", "relation_type": "Located in", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Contributes to", "object_type": "Enzyme"}
+{"subject_type": "Enzyme", "relation_type": "Mapped on", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Contributes to", "object_type": "Fruit"}
+{"subject_type": "Compound", "relation_type": "Quenches fluorescence of", "object_type": "Enzyme"}
+{"subject_type": "Metabolism", "relation_type": "Upregulates", "object_type": "Compound"}
+{"subject_type": "Compound", "relation_type": "Resolve metabolic bottleneck of", "object_type": "Compound"}
+{"subject_type": "Reaction", "relation_type": "Temperature affects", "object_type": "Metabolism"}
+{"subject_type": "Metabolism", "relation_type": "Survival during", "object_type": "Enzyme"}
+{"subject_type": "Fruit", "relation_type": "Higher flow rate than", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Less clogging potential than", "object_type": "Fruit"}
+{"subject_type": "Fruit", "relation_type": "Component of", "object_type": "Flavor"}
+{"subject_type": "Flavor", "relation_type": "Disliked by", "object_type": "Enzyme"}
+{"subject_type": "Compound", "relation_type": "Served as", "object_type": "Metabolism"}
+{"subject_type": "Enzyme", "relation_type": "Possess", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Transformation efficiency rate ranged from", "object_type": "Flavor"}
+{"subject_type": "Fruit", "relation_type": "Used in", "object_type": "Enzyme"}
